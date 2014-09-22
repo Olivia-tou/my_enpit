@@ -1,4 +1,5 @@
 # Hello world!
 
-This is my first repository for enpit 2014.
+This is our first repository for enpit 2014.
 
+My happy day!
