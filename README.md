@@ -1,3 +1,4 @@
 # Hello world!
 
-This is my first commit.
+This is my first repository for enpit 2014.
+
